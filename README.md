@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-### Name : SHARVESH S
+### Name : SHARVESH S 
 ### Reg. No : 212224060246
 
 # Algorithm or Steps Involved:
